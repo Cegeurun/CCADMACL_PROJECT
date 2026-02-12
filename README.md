@@ -22,12 +22,3 @@ This project implements an unsupervised learning framework to automatically segm
 - Quality metrics: Critic scores, user scores
 - Metadata: Game name, platform, genre, release year
 
-### Methodology
-
-#### 1. Data Preprocessing
-- Handle missing values and outliers
-- Remove games with l success?  
-✓ How do user-critic discrepancies define unique game clusters?  
-✓ What patterns exist between quality and sales in the gaming industry?  
-✓ Can unsupervised learning discover "hidden gems"?
-
