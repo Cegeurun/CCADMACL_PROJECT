@@ -1,0 +1,35 @@
+Unsupervised Segmentation of Video Game Metadata for Quality Estimation  
+
+## **A. Project Overview**
+
+The main goal of this project is to implement an unsupervised learning framework to automatically segment video games into distinct, meaningful archetypes such as "Critically Acclaimed Blockbusters" or "Underrated Gems" by analyzing the latent patterns between their commercial performance (global sales) and critical reception (critic and user scores). This topic is interesting as it moves beyond simple review aggregates to discover how success and quality interact in the gaming industry, providing a data-driven lens on what constitutes a "worthwhile" game. We hope to discover whether high critic scores consistently align with commercial success, how user-critic discrepancies define unique game clusters, and ultimately provide a novel, metadata-driven method for estimating video game quality and market positioning.
+
+Source: [https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings/data](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings/data)
+
+
+
+
+
+Rubrics:
+Problem Definition & Motivation (5 pts): Clear, meaningful, and well-scoped problem with strong motivation and context.
+
+Related Work & Citations (5 pts): Reviews and integrates relevant literature; proper citation format and synthesis of prior work.
+
+Data Understanding & Context (10 pts): Provides a comprehensive summary of the dataset—explains features, data types, target variable, size, and context. Demonstrates strong understanding of the data source and its relevance.
+
+Data Cleaning & Preparation (5 pts): Clearly explains and justifies preprocessing, handling of missing data, and transformations.
+
+Exploratory Analysis & Visualization (20 pts): Uses effective, well-labeled, and varied visualizations (histograms, boxplots, pairplots, correlations, etc.) that reveal clear insights. Visuals are aesthetically clean and informative.
+
+Methodology (5 pts): Clearly and completely describes the experimental setup of ML environment, including parameters, libraries, and reasoning.
+
+Experimentation & Exploration of Solutions (5 pts): Extensive experimentation with multiple models, parameters, and configurations; clear comparisons.
+
+Training Strategy & Optimization (5 pts): Well-tuned hyperparameters, robust training.
+
+Evaluation & Interpretation of Results (30 pts): Uses proper metrics; compares models logically; provides insightful interpretation and explains why results occurred.
+
+Clarity, Structure & Presentation (5 pts): Paper is clear, professional, and logically structured; visuals and writing enhance understanding.
+
+Code Quality, Reproducibility & Documentation (5 pts): Clean, modular, reproducible code with clear comments, environment setup, and usage instructions.
+
